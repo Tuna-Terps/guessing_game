@@ -1,1 +1,1 @@
-Rust is cool
+Rust is cool 
